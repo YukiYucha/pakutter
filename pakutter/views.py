@@ -1,6 +1,4 @@
-from django.http import HttpResponse
+from django.shortcuts import render
 
 def index(request):
-    str_out = "<p>Good Afternoon</p>"
-    str_out += "<p>こんにちは</p>"
-    return HttpResponse(str_out)
+    return render(request, "pakutter/index.html")
