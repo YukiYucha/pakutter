@@ -2,6 +2,9 @@
 
 [コマンド一覧](https://yukiyucha.notion.site/01706483aaf44c64aba21ea924576c6f)
 
+## 画面デザイン
+[figma](https://www.figma.com/file/1cCzGx1SH9nCkxwXnjFG1D/Untitled?node-id=0%3A1)
+
 ## Django 参考リンク
 
 [公式ドキュメント](https://www.djangoproject.com/)
