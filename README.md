@@ -9,7 +9,7 @@ twitterライクなアプリ
 ```bash
 $ git clone https://github.com/YukiYucha/pakutter.git
 $ cd pakutter
-$ docker compose up -d
+$ make up
 
 localhost:8000/pakutter
 ```
